@@ -1,0 +1,80 @@
+Country,Category,Trans Date,Post Date,Description,Amount
+Denmark,Groceries,1/1/17,1/2/17,NETTO JAGTVEJ,-29.47
+Denmark,Drinks,12/31/16,1/1/17,BAR 7,-29.49
+Denmark,Groceries,12/31/16,1/2/17,7ELEVEN B 008,-5.5
+Denmark,Groceries,12/31/16,1/1/17,NETTO JAGTVEJ,-19.34
+Denmark,Drinks,12/31/16,1/1/17,BAR 7,-38.34
+Denmark,Groceries,12/30/16,1/1/17,NETTO JAGTVEJ,-2.57
+Denmark,Miscellaneous,12/30/16,1/1/17,HEIKO BY HEIKO,-4.01
+Denmark,Groceries,12/30/16,1/1/17,NETTO JAGTVEJ,-1.43
+Denmark,Miscellaneous,12/30/16,1/1/17,OESTERBRO APOTEK,-8.08
+Denmark,Lodging,12/30/16,1/1/17,AIRBNB,-43
+Denmark,Groceries,12/30/16,1/1/17,NETTO JAGTVEJ,-5.94
+Denmark,Vaccinations,12/29/16,12/30/16,UDLANDSVACCINATIONEN IS,-280.39
+Denmark,Groceries,12/28/16,12/29/16,NETTO JAGTVEJ,-18.08
+Denmark,Transportation,12/27/16,12/28/16,Bus4you/Nettbuss expre,-37.17
+Denmark,Activities,12/23/16,12/25/16,TIVOLI SALGSKIOSK,-34.52
+Denmark,Drinks,12/23/16,12/25/16,7ELEVEN B 032,-8.85
+Denmark,Drinks,12/23/16,12/25/16,BUTLER VIN VHENRIK LANGVA,-26.61
+Denmark,Groceries,12/23/16,12/25/16,NETTO JAGTVEJ,-47.26
+Denmark,Shopping,12/23/16,12/25/16,Amazon UK Marketplace,-34.71
+Denmark,Eating Out,12/23/16,12/25/16,ROYAL SMUSHI CAFE,-21.12
+Denmark,Shopping,12/23/16,12/25/16,AMAZON UK RETAIL AMAZON.C,-20.53
+Denmark,Drinks,12/23/16,12/25/16,CHAPLON TESALON I TIVOLI,-16.9
+Denmark,Groceries,12/23/16,12/25/16,IRMA INDUSTRIENS HUS,-26.91
+Denmark,Groceries,12/22/16,12/23/16,NETTO OESTBROG 79,-14.4
+Denmark,Groceries,12/21/16,12/22/16,NETTO JAGTVEJ,-22.39
+Denmark,Miscellaneous,12/21/16,12/22/16,FAKTA Q NOERREVOLD,-6.13
+Denmark,Groceries,12/19/16,12/20/16,NETTO JAGTVEJ,-36.58
+Denmark,Groceries,12/18/16,12/19/16,184 KIWI OESTERFAELLED TO,-6.02
+Denmark,Miscellaneous,12/18/16,12/19/16,IZ *SOCIAL APS,-9.86
+Denmark,Drinks,12/17/16,12/19/16,BRUS APS,-7.75
+Denmark,Groceries,12/16/16,12/18/16,NETTO JAGTVEJ,-40.39
+Denmark,Drinks,12/16/16,12/18/16,BRUS APS,-15.5
+Denmark,Miscellaneous,12/15/16,12/16/16,SOEREN K,-4.35
+Denmark,Groceries,12/14/16,12/15/16,NETTO JAGTVEJ,-10.53
+Denmark,Groceries,12/12/16,12/13/16,NETTO OESTBROG 107,-10.59
+Denmark,Groceries,12/12/16,12/13/16,NETTO JAGTVEJ,-23.98
+Denmark,Groceries,12/11/16,12/12/16,184 KIWI OESTERFAELLED TO,-6.33
+Denmark,Groceries,12/10/16,12/11/16,NETTO OESTBROG 107,-23.7
+Denmark,Lodging,12/9/16,12/11/16,GENERATOR HOSTEL COPENHAG,-95.86
+Denmark,Eating Out,12/9/16,12/11/16,McDonalds OEsterbrogade,-18.58
+Denmark,Transportation,12/9/16,12/11/16,METROSTATION KGS NYTORV T,-6.86
+Denmark,Groceries,12/8/16,12/9/16,NETTO AMAGERBROGADE,-4.93
+Norway,Miscellaneous,1/10/17,1/11/17,NYDALSVEIEN 33,-8.94
+Norway,Eating Out,1/10/17,1/11/17,LOKALT OG LEKKERT AS,-35.06
+Norway,Drinks,1/10/17,1/11/17,VINMONOPOLET BERGEN VALKE,-7.06
+Norway,Miscellaneous,1/10/17,1/11/17,NYDALSVEIEN 33,-4.12
+Norway,Eating Out,1/10/17,1/11/17,SIAMRATREE AS,-35.29
+Norway,Miscellaneous,1/9/17,1/10/17,FLOISTUEN BUTIKK,-12.56
+Norway,Food,1/9/17,1/11/17,KIWI 878 BIRKEBEINERSENTE,-6.78
+Norway,Drinks,1/9/17,1/10/17,UNA BRYGGERI,-20.19
+Norway,Miscellaneous,1/8/17,1/9/17,IZ *FLAM AS,-10.64
+Norway,Eating Out,1/8/17,1/10/17,ANNE MADAM,-26.3
+Norway,Transportation,1/8/17,1/10/17,NETTBUSS REG SF,-18.31
+Norway,Activities,1/7/17,1/8/17,FLAAM GUIDESERVICE AS,-170.24
+Norway,Food,1/7/17,1/8/17,COOP MARKED FLAM 234601,-12.67
+Norway,Transportation,1/7/17,1/10/17,NETTBUSS REG SF,-18.31
+Norway,Food,1/7/17,1/8/17,COOP MARKED FLAM 234601,-5.15
+Norway,Transportation,1/7/17,1/10/17,NETTBUSS REG SF,-18.31
+Norway,Misc,1/6/17,1/8/17,APL* ITUNES.COM/BILL,-1
+Norway,Lodging,1/6/17,1/8/17,AIRBNB,-46
+Norway,Misc,1/6/17,1/8/17,VITUSAPOTEK LAERDAL,-6.49
+Norway,Transportation,1/6/17,1/8/17,NETTBUSS REG SF,-16.43
+Norway,Transportation,1/6/17,1/10/17,FIRDA BILLAG BUSS SF ONLI,-14.09
+Norway,Food,1/6/17,1/8/17,KIWI 044 LAERDAL,-17.2
+Norway,Food,1/5/17,1/8/17,KIWI 044 LAERDAL,-22.4
+Norway,Coffee,1/5/17,1/6/17,Cafe Rallaren,-2.95
+Norway,Transportation,1/5/17,1/8/17,NETTBUSS REG SF,-19.62
+Norway,Lodging,1/5/17,1/6/17,AARETHUN AS,-176.79
+Norway,Activities,1/5/17,1/6/17,FLAAM KUNDESENTER 2,-68.5
+Norway,Food,1/4/17,1/5/17,OSLO BUSSTERMIN,-6.99
+Norway,Food,1/4/17,1/5/17,RENT MEL BAKERI,-6.76
+Norway,Miscellaneous,1/4/17,1/6/17,LITTLE BOYS MAFIA AS,-19.49
+Norway,Miscellaneous,1/4/17,1/6/17,FLAVOURS,-7.55
+Norway,Coffee,1/3/17,1/4/17,TIM WENDELBOE AS,-11.48
+Norway,Miscellaneous,1/3/17,1/4/17,NARVESEN 837 National,-3.36
+Norway,Food,1/3/17,1/4/17,COOP PRIX POSTGIROBYGGET,-9.89
+Norway,Food,1/3/17,1/5/17,DELI DE LUCA OSLO S,-0.35
+Norway,Eating Out,1/3/17,1/5/17,MIDDELHAVE GRILL AS,-13.75
+Norway,Coffee,1/2/17,1/3/17,ESPRESSO HOUSE,-4.15
