@@ -28,14 +28,7 @@ purchases_df.loc[:,"Amount"] *= -1
 
 
 
-sum_by_cat = purchases_df.groupby(by=['Category'])['Amount'].sum().reset_index()
-sum_by_cat.columns = ['cat', 'val']
-sum_by_cat_json = sum_by_cat.to_json(orient='records')
-#sum_by_cat_json.replace("\\","")
-sum_by_cat_json = sum_by_cat_json[1:-1]
-sum_by_cat_json = '{"data":' + sum_by_cat_json + "}"
-#sum_by_cat_json.replace("\\","")
-print sum_by_cat_json
-
-with open('data.json', 'w') as outfile:
-    json.dump(sum_by_cat_json, outfile)
+sum_by_cat = purchases_df.groupby(by=['Category'])['Amount'].sum()
+sum_by_cat.plot(kind = "bar")
+plt.figure()
+sum_by_cat.plot(kind = "pie")
